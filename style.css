@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,11 +6,11 @@
   list-style-type: none;
 }
 
-.sayt{
+.sayt {
   width: 1200px;
   height: 600px;
   border: 5px solid black;
   margin: auto;
   margin-top: 10px;
-  background-color: lime;
+  background-color: yellow;
 }
